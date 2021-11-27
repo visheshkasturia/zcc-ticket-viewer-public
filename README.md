@@ -40,6 +40,8 @@ CLIENT_SECRET = # <your client secret>
 
 **3. Starting the backend**
 
+In a new terminal window:
+
 ```
 $ cd zccvisheshkasturia-ticket-viewer-backend
 $ npm install
@@ -47,6 +49,8 @@ $ npm start
 ```
 
 **4. Starting the frontend**
+
+In a new terminal window:
 
 ```
 $ cd zccvisheshkasturia-ticket-viewer
