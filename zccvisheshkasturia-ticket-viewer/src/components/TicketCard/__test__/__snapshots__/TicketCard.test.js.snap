@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TicketCard renders correctly Matches snapshot 1`] = `
+<div
+  className="ticketContainer"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+  role="button"
+  tabIndex={0}
+>
+  <div
+    className="id-box flex-center"
+    data-testid="ticket-id-test"
+  >
+    1
+  </div>
+  <div
+    className="status-box flex-center"
+    data-testid="ticket-status-test"
+  >
+    open
+  </div>
+  <div
+    className="priority-box flex-center"
+    data-testid="ticket-priority-test"
+  >
+    urgent
+  </div>
+  <div
+    className="subject-box flex-center"
+    data-testid="ticket-subject-test"
+  >
+    test subject
+  </div>
+  <div
+    className="date-box flex-center"
+    data-testid="ticket-createdat-test"
+  >
+    2021-12-01
+  </div>
+</div>
+`;

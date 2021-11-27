@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin: auto;
+}
+
+.logout-link{
+  text-decoration: none;
+  color: black;
+  border: solid 1px black;
+  border-radius: 8px;
+  padding: 10px;
+  background-color: #e7e7e7;
+  position: fixed;
+  right: 20px;
+  top: 20px;
+}

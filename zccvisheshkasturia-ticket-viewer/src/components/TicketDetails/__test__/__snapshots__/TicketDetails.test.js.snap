@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TicketDetails renders correctly Matches snapshot 1`] = `
+<div
+  className="ticketDetailsContainer"
+>
+  <div
+    className="id-details"
+    data-testid="details-id"
+  >
+    <b>
+      Ticket ID :
+    </b>
+     
+    1
+  </div>
+  <div
+    className="req-details"
+    data-testid="details-reqid"
+  >
+    <b>
+      Requester ID :
+    </b>
+     
+    ABC123
+  </div>
+  <div
+    className="assignee-details"
+    data-testid="details-assignid"
+  >
+    <b>
+      Assignee ID :
+    </b>
+     
+    XYZ456
+  </div>
+  <div
+    className="org-details"
+    data-testid="details-orgid"
+  >
+    <b>
+      Organization ID :
+    </b>
+     
+    ORG789
+  </div>
+  <div
+    className="created-details"
+    data-testid="details-createdat"
+  >
+    <b>
+      Date Created :
+    </b>
+     
+    2021-12-01T17:53:53Z
+  </div>
+  <div
+    className="updated-details"
+    data-testid="details-updatedat"
+  >
+    <b>
+      Date Updated :
+    </b>
+     
+    2021-12-03T18:42:42Z
+  </div>
+  <div
+    className="status-details"
+    data-testid="details-status"
+  >
+    <b>
+      Ticket Status :
+    </b>
+     
+    open
+  </div>
+  <div
+    className="priority-details"
+    data-testid="details-priority"
+  >
+    <b>
+      Ticket Priority :
+    </b>
+     
+    urgent
+  </div>
+  <div
+    className="subject-details"
+    data-testid="details-subject"
+  >
+    <b>
+      Subject :
+    </b>
+     
+    test subject
+  </div>
+  <div
+    className="desc-details"
+    data-testid="details-desc"
+  >
+    <b>
+      Description :
+    </b>
+     
+    test description
+  </div>
+</div>
+`;

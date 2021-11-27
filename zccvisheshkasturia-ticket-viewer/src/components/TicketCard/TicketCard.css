@@ -1,0 +1,39 @@
+.ticketContainer{
+  display: grid;
+  grid-template-columns: 10% 10% 10% 50% 20%;
+  grid-template-rows: 100;
+  border: 1px solid black;
+  min-height: 70px; 
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.flex-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5px;
+}
+
+.id-box{
+  grid-column: 1/ span 1;
+  border: 1px solid black;
+}
+.status-box{
+  grid-column: 2/ span 1;
+  border: 1px solid black;
+}
+.priority-box{
+  grid-column: 3/ span 1;
+  border: 1px solid black;
+}
+.subject-box{
+  grid-column: 4/ span 1;
+  border: 1px solid black;
+}
+.date-box{
+  grid-column: 5/ span 1;
+  border: 1px solid black;
+}

@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFound renders correctly Matches snapshot 1`] = `
+<div
+  className="not-found"
+>
+  <img
+    alt="Oh my goodness GIF"
+    className="img-gif"
+    data-testid="img-nf-test"
+    src="c3poomg.gif"
+  />
+  <h1
+    className="h1-nf"
+    data-testid="h1-nf-test"
+  >
+    Looks like something went wrong and you landed in the wrong place . Quick try again!.
+  </h1>
+</div>
+`;

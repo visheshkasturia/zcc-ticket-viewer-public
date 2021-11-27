@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders correctly Matches snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="tickets"
+  >
+    <h1
+      className="userHeading"
+    >
+       Welcome 
+      
+       
+      <br />
+       Thanks for making people happy, one customer at a time.
+    </h1>
+    <div
+      className="pg-info"
+    >
+      Page 
+      1
+      , Showing 
+      0
+        on this page, Total 
+      0
+       Tickets
+    </div>
+    <div
+      className="ticketContainer"
+    >
+      <div
+        className="id-box flex-center"
+      >
+        Ticket ID
+      </div>
+      <div
+        className="status-box flex-center"
+      >
+        Status
+      </div>
+      <div
+        className="priority-box flex-center"
+      >
+        Priority
+      </div>
+      <div
+        className="subject-box flex-center"
+      >
+        Subject
+      </div>
+      <div
+        className="date-box flex-center"
+      >
+        Date
+      </div>
+    </div>
+    <button
+      className="nav-btn"
+      id="prev-btn"
+      onClick={[Function]}
+      type="button"
+    >
+      Previous
+    </button>
+    <button
+      className="nav-btn"
+      id="next-btn"
+      onClick={[Function]}
+      type="button"
+    >
+      Next
+    </button>
+  </div>
+  <a
+    className="logout-link"
+    data-testid="logout-link-test"
+    href="http://localhost:5000/logout"
+  >
+    Log out
+  </a>
+</div>
+`;

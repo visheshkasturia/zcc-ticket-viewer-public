@@ -1,0 +1,21 @@
+.userHeading{
+  margin: auto;
+}
+
+.pg-info{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-btn {
+  border-radius: 8px;
+  height: 40px;
+  width: 100px;
+  margin: 0px 10px 10px 30px;
+}
+
+.nav-btn:hover {
+  cursor: pointer;
+}
